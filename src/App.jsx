@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <main>
-      <h1 className="text-5xl text-orange-500 font-bold">
+      <h1 className="text-5xl font-robert-medium text-violet-300">
         Welcome to Awwwards
       </h1>
     </main>
